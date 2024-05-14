@@ -1,9 +1,9 @@
 # Cybernetics-Club-Project
 ## Step 1: 
-Upload files from Gamma 
+Upload file.
 ## Step 2: 
-One powerpoint presentation would be selected
+One powerpoint presentation would be selected.
 ## Step 3: 
-Further topics would be added 
+Further topics would be discussed and added accordingly.
 ## Step 4: 
 Editing the Presentation and making the final draft
