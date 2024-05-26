@@ -9,3 +9,4 @@ Further topics would be discussed and added accordingly.
 Editing the Presentation and making the final draft
 ## Step 5:
 For final editing:
+https://stock.adobe.com/search?k=artificial+intelligence+background#722554142
