@@ -7,3 +7,5 @@ One powerpoint presentation would be selected.
 Further topics would be discussed and added accordingly.
 ## Step 4: 
 Editing the Presentation and making the final draft
+## Step 5:
+For final editing:
