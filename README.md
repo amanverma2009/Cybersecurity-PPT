@@ -13,4 +13,6 @@ https://stock.adobe.com/search?k=artificial+intelligence+background#722554142
 ## Step 6:
 Create a script and quiz 
 ## Step 7:
-Divide the slides who will explain what
+https://app.presentations.ai/docs/user/invite/eWHuCo5l9D8XbeJLHlcCRTRLL
+
+
