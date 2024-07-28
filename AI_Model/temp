@@ -1,1 +1,4 @@
-normal
+Step 1: Open the folder in vs code
+Step 2: Open the terminal then write the command pip install -r requirements.txt
+Step 3: Check whether all the modules are installed 
+Step 4: Run the main.py file 
