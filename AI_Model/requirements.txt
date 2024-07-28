@@ -1,0 +1,7 @@
+PyAudio==0.2.14
+Requests==2.31.0
+playsound==1.2.2
+googlesearch-python==1.2.4
+pvporcupine==1.9.5
+pygame==2.5.2
+
