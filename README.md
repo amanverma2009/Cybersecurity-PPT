@@ -17,4 +17,6 @@ Create a script and quiz
 https://app.presentations.ai/docs/user/invite/eWHuCo5l9D8XbeJLHlcCRTRLL
 ### Slideshow Preview
 https://app.presentations.ai/view/Yf1yRg
-
+### AI is built 
+download the folder AI_Model to use it 
+when the script is ready it will get integrated in AI
