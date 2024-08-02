@@ -20,3 +20,5 @@ https://app.presentations.ai/view/Yf1yRg
 ### AI is built 
 download the folder AI_Model to use it 
 when the script is ready it will get integrated in AI
+### Canva Link
+https://www.canva.com/design/DAGMs3_PVzw/EUBndW7bSPYo6H8jiT-AHw/view?utm_content=DAGMs3_PVzw&utm_campaign=designshare&utm_medium=link&utm_source=editor
