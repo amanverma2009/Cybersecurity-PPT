@@ -42,3 +42,4 @@ Replace `'YOUR_API_KEY'` with your actual API key from DeepInfra. You can choose
 This code loads an image using OpenCV, encodes it as a base64 string, makes an API request to the DeepInfra Vision API, and prints the description of the image.
 
 Please note that you need to have the `requests` and `base64` libraries installed to run this code. Also, make sure to check the DeepInfra API documentation for any usage limits and requirements.
+iSfo6nNVzhoyNRQHfhpmme61Rjo1Vy271234567890
