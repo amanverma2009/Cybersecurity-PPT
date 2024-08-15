@@ -1,0 +1,41 @@
+Let us talk about some Careers related to Cybersecurity. 
+
+To keep organisations safe from cyber threats, Cybersecurity Analyst needs to:
+Watch Over Networks: 
+Keep an eye on computer networks to spot any problems.
+Find Intrusions: 
+Detect if someone is trying to break in or cause trouble.
+Set Up Security: 
+Use tools and rules to protect important information from being stolen or damaged.
+This way, we help ensure that the organisation's data stays safe and secure.
+
+Use Hacking Skills: 
+Apply hacking techniques to check for weak spots in computer systems.
+Find Weaknesses: 
+Identify vulnerabilities that could be exploited.
+Fix Problems: 
+Help address these weaknesses to improve the company's cybersecurity.
+
+Teach Future Experts: 
+Train the next generation of cybersecurity professionals.
+Create Training Programs: 
+Develop and provide lessons and activities to help them learn.
+Equip with Skills: 
+Give them the knowledge and abilities needed to fight against cyber threats.
+
+Manage Cybersecurity Strategy: 
+Oversee the organisation's plan for protecting its information.
+Ensure Strong Security: 
+Make sure that effective security measures are used.
+Protect Against Threats: 
+Guard against data breaches and cyber-attacks to keep information safe.
+
+
+
+Moving Forward now let us Talk about Future Prospects About Cyber Crime
+
+AI-powered cybersecurity defences will enhance protection by swiftly identifying and addressing new threats with unmatched speed and precision.
+
+Governments and industry bodies will implement stricter data privacy laws and cybersecurity standards to ensure organizations are accountable and to deter cyber criminals.
+
+AI-driven predictive analytics can help organizations foresee and prevent cyber attacks by anticipating threats before they occur, allowing for proactive defence measures.
