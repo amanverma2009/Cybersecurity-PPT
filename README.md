@@ -2,7 +2,7 @@
 ## Step 1: 
 Upload file.
 ## Step 2: 
-One powerpoint presentation would be selected.
+One PowerPoint presentation will be selected.
 ## Step 3: 
 Further topics would be discussed and added accordingly.
 ## Step 4: 
@@ -24,4 +24,7 @@ https://www.figma.com/proto/GqgDKeeDInmkCodpo9pVqh/Untitled?node-id=0-1&t=XCVapX
 ### Canva Access Link           
 https://www.canva.com/design/DAGMs3_PVzw/gunTMco5WzeP4Sh_Idlu3Q/edit?utm_content=DAGMs3_PVzw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ### Quizizz Link
+#### Join
 https://quizizz.com/join/quiz/66ba429dc413840af823d9f7/start?studentShare=true
+#### Admin
+https://quizizz.com/admin/quiz/66ba429dc413840af823d9f7?source=quiz_share
