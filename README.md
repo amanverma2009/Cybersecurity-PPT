@@ -28,3 +28,4 @@ https://www.canva.com/design/DAGMs3_PVzw/gunTMco5WzeP4Sh_Idlu3Q/edit?utm_content
 https://quizizz.com/join/quiz/66ba429dc413840af823d9f7/start?studentShare=true
 #### Admin
 https://quizizz.com/admin/quiz/66ba429dc413840af823d9f7?source=quiz_share
+## AI Script : 
